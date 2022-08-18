@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Name: 
+My name is Christopher. I usually go by Chris.
+
+### Occupation:
+I am currently a student at NTI Nacka and I am studying tech-science with code as a branch major.
+
 <!--
 **CrazyChr1504/CrazyChr1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
