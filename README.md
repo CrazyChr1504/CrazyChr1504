@@ -4,7 +4,7 @@
 My name is Christopher. I usually go by Chris.
 
 ### Occupation:
-I am currently a student at NTI Nacka and I am studying tech-science with code as a branch major.
+I am currently a student at LTU and I am studying cumputer-science.
 
 <!--
 **CrazyChr1504/CrazyChr1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
